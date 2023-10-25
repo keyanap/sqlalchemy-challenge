@@ -2,6 +2,7 @@
 Part 1: Analyze and Explore the Climate Data
 
 Precipitation Analysis
+
 ![Alt text](<SurfsUp/Precipitation Analysis.png>)
 
 Station Analysis 
